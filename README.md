@@ -23,8 +23,8 @@ source venv/bin/activate
 ```
 pip install selenium
 ```
-4. Create an output file, named accounts.txt in /account_generator.
-5. Run the script!
+5. Create an output file, named accounts.txt in /account_generator.
+6. Run the script!
 
 NOTE: When the script runs, a Firefox window will popup. Expand the window to make sure the script functions properly. (Otherwise, you will end up with an error along the lines of: 
 ```
