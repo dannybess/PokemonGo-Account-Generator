@@ -1,2 +1,2 @@
-# PokemonGo-Account-Generator
+# Pokemon Trainer Account Mass Account Generator 
 Tutorial
