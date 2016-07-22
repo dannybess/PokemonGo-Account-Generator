@@ -1,15 +1,15 @@
 # Pokemon Trainer Account Mass Account Generator 
 
 ## Installation Instructions
-1. Install virtualenv (if you do not yet have it).
+Install virtualenv (if you do not yet have it).
 ```
 pip install virtualenv
 ```
-2. Setup a working directory.
+Setup a working directory.
 ```
 mkdir account_generator
 ```
-3. Setup and activate your virtual environment. 
+Setup and activate your virtual environment. 
 ```
 virtualenv venv
 source venv/bin/activate
@@ -19,7 +19,7 @@ or if you want to use a specific version of python,
 virtualenv -p /usr/bin/python2.7 venv
 source venv/bin/activate
 ```
-4. Install dependencies.
+Install dependencies.
 ```
 pip install selenium
 ```
